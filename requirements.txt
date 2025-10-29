@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+pandas
+fpdf2
+boto3
+urllib3
+pydantic
+SQLAlchemy
+python-dotenv
